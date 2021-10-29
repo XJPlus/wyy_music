@@ -15,7 +15,7 @@ http://124.71.181.133/bk/
 
 ```shell
 
-$ git clone https://gitee.com/XJ_Plus/wyyapi.git
+$ git clone https://github.com/XJPlus/wyy_music.git
 
 $ npm install
 ```
